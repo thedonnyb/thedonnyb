@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Don 👋
 
-<!--
-**thedonnyb/thedonnyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Linux system administrator currently studying for my **RHCSA** (RHEL 9).
 
-Here are some ideas to get you started:
+I'm using this GitHub to document my hands-on learning — real scripts and
+configs I build and test in a RHEL lab environment, not just notes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Currently learning
+- User & group management
+- Shell scripting (bash)
+- Storage & LVM
+- SELinux, firewalld, and system security
+- Containers with Podman
+
+### 📂 Projects
+- [create-users](https://github.com/thedonnyb/create-users) — Bash script to bulk-create users from a list
+
+### 🎯 Goal
+Pass the RHCSA, then keep building toward a sysadmin / Linux engineer role.
